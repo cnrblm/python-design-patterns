@@ -1,0 +1,3 @@
+# Python Desing Patterns(Tasarım Desenleri)
+
+Python üzerinde design pattern örnek kodlamaları...
